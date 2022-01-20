@@ -7,6 +7,7 @@ namespace testinggit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Tis is a new commit line");
         }
     }
 }
